@@ -1,1 +1,1 @@
-Bitcoin Multi Signature Address Creation and Signing Script v0.2. By OutCast3k.
+Riecoin Multi Signature Address Creation and Signing Script v0.2. Forked from OutCast3k.
